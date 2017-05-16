@@ -1,0 +1,10 @@
+{
+    "menu_id": "xxxxxxxxx",
+    "method": "PUT",
+    "selection": [ 
+        "Cheese",
+        "Pepperoni",
+        "Vegetable",
+		"olives"
+    ]   
+}
